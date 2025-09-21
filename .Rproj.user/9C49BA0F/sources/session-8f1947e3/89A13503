@@ -1,0 +1,28 @@
+{
+    "id": "89A13503",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1758457754394.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "ad716aefb6df488899efa444c2d12bb5",
+        "name": "red_hidalgo1",
+        "title": "red_hidalgo1",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758457754394,
+    "read_only": false,
+    "read_only_alternatives": []
+}
